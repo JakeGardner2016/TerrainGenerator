@@ -1,0 +1,208 @@
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.csprojResolveAssemblyReference.cache
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\csc.exe
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\System.Collections.Immutable.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\System.Reflection.Metadata.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\vbc.exe
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\VBCSCompiler.exe
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\VBCSCompiler.exe.config
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.dll.config
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.pdb
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Antlr3.Runtime.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.SqlServer.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Google.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Web.Infrastructure.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Newtonsoft.Json.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Owin.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Helpers.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Mvc.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Optimization.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Razor.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Deployment.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Razor.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\WebGrease.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Helpers.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Mvc.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Optimization.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Razor.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Deployment.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Razor.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Antlr3.Runtime.pdb
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Newtonsoft.Json.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.SqlServer.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Google.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.dll
+F:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.pdb
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\csc.exe
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\vbc.exe
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\VBCSCompiler.exe
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.dll.config
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.pdb
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Antlr3.Runtime.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.SqlServer.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Google.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Newtonsoft.Json.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Owin.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Helpers.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Mvc.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Optimization.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Razor.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Deployment.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Razor.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\WebGrease.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Helpers.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Mvc.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Optimization.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Razor.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Deployment.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Razor.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Antlr3.Runtime.pdb
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Newtonsoft.Json.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.SqlServer.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Google.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.csprojResolveAssemblyReference.cache
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.dll
+D:\PersonalWork\PortfolioStuff\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.pdb
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\csc.exe
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\System.Collections.Immutable.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\System.Reflection.Metadata.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\vbc.exe
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\VBCSCompiler.exe
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\roslyn\VBCSCompiler.exe.config
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.dll.config
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\PortfolioWebsite.pdb
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Antlr3.Runtime.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.SqlServer.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Google.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Web.Infrastructure.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Newtonsoft.Json.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Owin.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Helpers.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Mvc.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Optimization.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Razor.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Deployment.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Razor.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\WebGrease.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Helpers.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Mvc.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Optimization.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.Razor.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Deployment.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\System.Web.WebPages.Razor.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Antlr3.Runtime.pdb
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Newtonsoft.Json.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\EntityFramework.SqlServer.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Google.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.csprojResolveAssemblyReference.cache
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.csproj.CoreCompileInputs.cache
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.dll
+D:\Drive Stuff\PersonalWork\PortfolioStuff\TerrainProject_JakeGardner\PortfolioWebsite\PortfolioWebsite\obj\Debug\PortfolioWebsite.pdb
